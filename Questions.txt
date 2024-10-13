@@ -1,0 +1,55 @@
+Question 1
+=============
+You have a business of many bicycles that
+ people can rent. We assume that:
+ Somebody  rents a bicycle no more than 
+ 24 hours within the same day.
+The rate per hour depends on the time 
+of the day as follows:
+ 0 - 7         and 21-24  the rate 
+is RWF 500 per hour
+ 7-  10     and      19-21 the rate
+ is  RWF 1000 per hour
+10- 19 the rate is 1500 per hour 
+Write a python program that takes as 
+input the starting time and the ending time 
+and  does the following:
+(a) If the starting is greater than the
+ ending time or the sarting time or ending
+  time is out of the range 0-24, 
+  then display invalid input
+(b) Print the total amount to be paid 
+by the renter.
+Question 2
+============
+We have six types of mushrooms : 
+Agaric jaunissant
+Cepe de bordeaux
+Amanite tue-mouche
+Coprin chevelu
+Girolle
+Pied Bleu
+•The cepe bordeaux is the only 
+one to have pores, the other mushrooms
+ having gills.
+ •Both coprin chevelu and agaric jaunissant 
+ grow In meadows, other mushrooms grow 
+ in forests
+ •The only mushrooms to have a convex cup 
+ are agaric jaunissant,amanite tue-mouches,
+  and pied bleu.
+  •The only mushrooms to have a ring are 
+  agaric jaunissant,amanite tue-mouches,
+  and coprin chevelu.
+  The User thinks of a mushroom (one of the six).
+The program asks at most three of the  
+following four questions.
+The User answers truthfully by yes or no
+Based on the user’s answers, the program 
+determines the mushroom.
+The questions: 
+Does your mushroom have gills ?
+Does your mushroom grow in a forest ?
+Does your mushroom have a ring?
+Does your mushroom have a convex cup?
+
